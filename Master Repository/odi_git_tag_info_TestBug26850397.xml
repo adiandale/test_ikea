@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Projects/test_var/PROJ_test_var.xml"/>
+      <param value="/Work Repository/Projects/test_var/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/test_var/First_Folder/Packages/PACK_Another_New_Package.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Development.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Production.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Test.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
